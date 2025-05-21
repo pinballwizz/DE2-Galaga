@@ -12,5 +12,5 @@ Build:
 * Unzip rom files to tools/roms folder.
 * Run the make galaga proms script in the tools/roms folder.
 * Copy the generated prom files to the proms folder.
-* Open the ckong_de2 project file using Quartus and compile.
+* Open the galaga_de2 project file using Quartus and compile.
 * Program DE2 Board.
